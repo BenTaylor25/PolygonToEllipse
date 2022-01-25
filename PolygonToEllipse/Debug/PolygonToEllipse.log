@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\benta\Desktop\All\Programming\C++\Visual Studio\PolygonToEllipse\PolygonToEllipse\PolygonToEllipse\Source.cpp(77,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\benta\Desktop\All\Programming\C++\Visual Studio\PolygonToEllipse\PolygonToEllipse\PolygonToEllipse\Source.cpp(102,21): warning C4018: '<': signed/unsigned mismatch
+  PolygonToEllipse.vcxproj -> C:\Users\benta\Desktop\All\Programming\C++\Visual Studio\PolygonToEllipse\PolygonToEllipse\Debug\PolygonToEllipse.exe

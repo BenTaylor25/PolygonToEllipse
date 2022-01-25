@@ -1,0 +1,3 @@
+This project is based off of this clip: https://www.instagram.com/reel/CYtYZsjF4JN/ If it is no longer live, the idea is that if you have a series of points connected adjacently, you have a polygon; If you take the midpoint of all of the adjacent collections, you get another series of points; Join these midpoints together and repeat. An ellipse shape should emerge from the polygon.
+
+This is built with the olcPixelGameEngine: https://github.com/OneLoneCoder/olcPixelGameEngine
